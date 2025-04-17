@@ -51,17 +51,18 @@ Sommerfeld/
 ```
 
 ### Estructura de Python:
-```
+```Python
 command = "hola"
 enabled = True
 
 async def run(message):
     await message.channel.send(f"¡Hola {message.author.name}! Soy un comando en Python.")
+```
 
 ## ¿Quieres el código fuente?
 Esta versión solo incluye el ejecutable y archivos esenciales.
 Si deseas el código fuente completo con documentación técnica, deberás Esperar la versión de desarrollador. Incluye notas del autor y soporte extendido.
-```
+
 
 ## --Autor:
 Sommerfeld -- ig:
