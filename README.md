@@ -15,8 +15,7 @@ Sommerfeld/
 ├── datos/                        
 │   └── requirements.txt 
 │
-├── LEEME, SON LOS COMANDOS.txt   # Archivo de texto con los comandos disponibles.
-
+├── LEEME, SON LOS COMANDOS.txt   
 
 ---
 
@@ -62,7 +61,8 @@ Esta versión solo incluye el ejecutable y archivos esenciales.
 Si deseas el código fuente completo con documentación técnica, deberás Esperar la versión de desarrollador. Incluye notas del autor y soporte extendido. 
 
 ## --Autor:
-Sommerfeld -- ig:<a href="https://www.instagram.com/nothing_.ez?igsh=MW5nOG9rejBmd3Z3dA==" target="_blank">
+Sommerfeld -- ig:
+<a href="https://www.instagram.com/nothing_.ez?igsh=MW5nOG9rejBmd3Z3dA==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
  
